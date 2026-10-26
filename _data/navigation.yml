@@ -4,6 +4,5 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Cv/Resume"
-    url: /Cv/Resume/
+
 
